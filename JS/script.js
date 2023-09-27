@@ -3,7 +3,8 @@ const { createApp } = Vue;
 createApp({
   data(){
     return{
-      hello: 'It\'s me'
+      hello: 'Pika! Pikàh!',
+      imageUrl: '/img/pika.jpg'
     }
   }  
 }).mount('#app')
