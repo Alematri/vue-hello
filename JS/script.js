@@ -4,7 +4,7 @@ createApp({
   data(){
     return{
       hello: 'Pika! Pikàh!',
-      imageUrl: '/img/pika.jpg'
+      imageUrl: './img/pika.jpg'
     }
   }  
 }).mount('#app')
